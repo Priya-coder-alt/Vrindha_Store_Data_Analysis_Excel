@@ -1,5 +1,9 @@
 # Vrindha_Store_Data_Analysis_Excel (Interactive dashboard using MS Excel)
 This repository provides an in-depth analysis of Vrinda Store’s sales, customer demographics, and platform performance.
+
+## Dataset used
+
+- <ahttps://github.com/Priya-coder-alt/Vrindha_Store_Data_Analysis_Excel/blob/main/Vrinda%20Store%20Data%20Analysis%20.xlsx">Dataset</a>
   
 ## Key Insights  
 
@@ -17,6 +21,7 @@ This repository provides an in-depth analysis of Vrinda Store’s sales, custome
 
 -**Annual Report 2022:** Summary of Vrinda Store’s yearly performance.
 
+## Dashboard
 
 ## Process and KPIs
 
@@ -61,6 +66,7 @@ To evaluate business performance, the following KPIs were analyzed:
 📌 High cancellation & refund rates suggest a need for better customer experience and product quality.
 
 ## Final Recommendations  
+
 ✔️ Expand Women-Centric Product Lines: Since female customers dominate purchases, adding more women-oriented products could boost sales.
 
 ✔️ Strengthen Amazon & Myntra Presence: These channels generate the most revenue, so focusing on marketing and exclusive deals on these platforms is crucial.
