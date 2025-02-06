@@ -3,7 +3,7 @@ This repository provides an in-depth analysis of Vrinda Store’s sales, custome
 
 ## Dataset used
 
-- <ahttps://github.com/Priya-coder-alt/Vrindha_Store_Data_Analysis_Excel/blob/main/Vrinda%20Store%20Data%20Analysis%20.xlsx">Dataset</a>
+- <a href="https://github.com/Priya-coder-alt/Vrindha_Store_Data_Analysis_Excel/blob/main/Vrinda%20Store%20Data%20Analysis%20.xlsx">Dataset</a>
   
 ## Key Insights  
 
