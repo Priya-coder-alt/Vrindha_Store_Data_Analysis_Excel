@@ -1,6 +1,6 @@
 # Vrindha_Store_Data_Analysis_Excel (Interactive dashboard using MS Excel)
 This repository contains a comprehensive analysis of Vrinda Store’s sales and customer insights. The dataset includes order details, customer demographics, sales performance across different platforms, and geographic sales trends.
-##📌 Key Data Insights
+##Key Data Insights
 •	Sales vs Orders: Monthly revenue trends and order count.
 •	Gender Analysis: Sales contribution from men vs. women.
 •	Order Status: Breakdown of delivered, canceled, and refunded orders.
@@ -9,20 +9,20 @@ This repository contains a comprehensive analysis of Vrinda Store’s sales and 
 •	Sales Channels: Performance analysis of platforms like Amazon, Myntra, Ajio, Flipkart, etc.
 •	Annual Report 2022: Summary of Vrinda Store’s yearly performance.
 ________________________________________
-##🛠 Process of Analysis
+##Process of Analysis
 1.	Data Collection: Extracted raw order details from the Vrinda Store database.
 2.	Data Cleaning: Removed inconsistencies, missing values, and formatted data for analysis.
 3.	Exploratory Data Analysis (EDA):
-o	Identified key sales trends using pivot tables and visualizations.
-o	Segmented customers based on gender, age, and location.
-o	Analyzed order status trends (delivered, canceled, refunded).
+-Identified key sales trends using pivot tables and visualizations.
+-Segmented customers based on gender, age, and location.
+-Analyzed order status trends (delivered, canceled, refunded).
 4.	Sales Performance Evaluation:
-o	Compared sales across different months and states.
-o	Assessed platform-wise sales performance (Amazon, Myntra, etc.).
-o	Identified top-selling categories and customer preferences.
+-Compared sales across different months and states.
+-Assessed platform-wise sales performance (Amazon, Myntra, etc.).
+-Identified top-selling categories and customer preferences.
 5.	Reporting & Visualization:
-o	Created dashboards and charts to summarize findings.
-o	Compiled an annual report summarizing store performance.
+-Created dashboards and charts to summarize findings.
+-Compiled an annual report summarizing store performance.
 ________________________________________
 ##📊 Key Performance Indicators (KPIs)
 To evaluate business performance, the following KPIs were analyzed:
