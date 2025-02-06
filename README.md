@@ -22,6 +22,8 @@ This repository provides an in-depth analysis of Vrinda Store’s sales, custome
 -**Annual Report 2022:** Summary of Vrinda Store’s yearly performance.
 
 ## Dashboard
+<a href="https://github.com/Priya-coder-alt/Vrindha_Store_Data_Analysis_Excel/blob/main/Dashboard_image.png">view Dashboard<a/>
+
 
 ## Process and KPIs
 
